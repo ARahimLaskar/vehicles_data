@@ -247,5 +247,20 @@
       "type": "bus",
       "rating": "4"
     }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Chevrolet Cruze",
+      "image": "https://mwendoafrica.com/wp-content/uploads/2023/01/CARS-PNG-07-350x350.png",
+      "price": "₹ 1000",
+      "fuel": "Petrol",
+      "engine_capacity": "1999 cc",
+      "seats": "5 seats",
+      "Transmission": "Automatic",
+      "air_bags": "4",
+      "type": "car",
+      "rating": "4.5"
+    }
   ]
 }
