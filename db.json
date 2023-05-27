@@ -249,31 +249,6 @@
     }
   ],
   "cart": [
-    {
-      "id": 1,
-      "name": "Chevrolet Cruze",
-      "image": "https://mwendoafrica.com/wp-content/uploads/2023/01/CARS-PNG-07-350x350.png",
-      "price": "1000",
-      "fuel": "Petrol",
-      "engine_capacity": "1999 cc",
-      "seats": "5 seats",
-      "Transmission": "Automatic",
-      "air_bags": "4",
-      "type": "car",
-      "rating": "4.5"
-    },
-    {
-      "id": 19,
-      "name": "Quantam",
-      "image": "https://mwendoafrica.com/wp-content/uploads/2018/08/CARS-PNG-10-350x350.png",
-      "price": "1200",
-      "fuel": "Diesel",
-      "engine_capacity": "3800 cc",
-      "seats": "9 seats",
-      "Transmission": "Manual",
-      "air_bags": "2",
-      "type": "bus",
-      "rating": "4"
-    }
+    
   ]
 }
